@@ -1,1 +1,1 @@
-Contains a class for automated testing of Python programs.
+Contains a class for automated testing of Python programs. Work in progress.
